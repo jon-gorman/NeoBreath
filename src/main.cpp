@@ -225,24 +225,24 @@ void setup() {
 void loop() {  
 
   delay(2);
+
   indigo();
+  strip.show();
   red();
+  strip.show();
   orange();
+  strip.show();
   yellow();
+  strip.show();
   green();
+  strip.show(); 
   purple();
+  strip.show(); 
   blue();
-  
-  // pink();
-  
-  
-  
-  
-  // white();
-  
+  strip.show(); 
 //  strip.setPixelColor(0,0,0,0);
 //  delay(10);
-//  strip.show();
+// 
 
 }
 

@@ -240,8 +240,8 @@ void loop() {
   strip.show(); 
   blue();
   strip.show(); 
-//  strip.setPixelColor(0,0,0,0);
-//  delay(10);
+ strip.setPixelColor(0,0,0,0);
+ delay(10);
 // 
 
 }
